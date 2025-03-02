@@ -1,0 +1,21 @@
+CREATE DATABASE IF NOT EXISTS student_results;
+USE student_results;
+
+CREATE TABLE IF NOT EXISTS students (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    university_id VARCHAR(255) ,
+    full_name VARCHAR(255) ,
+    department VARCHAR(255)  ,
+    stage VARCHAR(255) ,
+
+
+ 
+    dsp VARCHAR(255) ,
+    Communications VARCHAR(255),
+    Networks VARCHAR(255),
+    RTS VARCHAR(255),
+    Math VARCHAR(255),
+    English VARCHAR(255),
+    DB VARCHAR(255),
+    Control VARCHAR(255)
+);
