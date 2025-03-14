@@ -19,7 +19,7 @@ This repository contains the **University Exam Results Bot**, a **university dat
 #### **⚙️ How to Install & Run:**  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/University-Exam-Results-Bot.git
+   git clone https://github.com/ievarx/University-Exam-Results-Bot.git
    ```  
 2. **Install dependencies:**  
    Run the following commands:  
